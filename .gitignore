@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.playwright-cli/
+output/
+examples/results.json
+examples/noise_trials.csv
+*.pdf
+*.zip
